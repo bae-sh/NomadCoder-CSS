@@ -1,0 +1,16 @@
+.box {
+    background: blue;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    color: white;
+}
+
+.box:nth-child(2) {
+    margin-left: 35px;
+    background-color: red;
+}
+
+.box:nth-child(3) {
+    margin-left: 20px;
+}
