@@ -1,16 +1,22 @@
-.box {
-    background: blue;
-    width: 300px;
-    height: 300px;
-    display: inline-block;
+.grid {
+    background: grey;
     color: white;
+    display: grid;
+    gap: 5px;
+    height: 250vh;
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: repeat(4, 1fr);
+    place-content: start center;
 }
-
-.box:nth-child(2) {
-    margin-left: 35px;
-    background-color: red;
+.header {
+    background-color: #2ecc71;
 }
-
-.box:nth-child(3) {
-    margin-left: 20px;
+.content {
+    background-color: #3498db;
+}
+.nav {
+    background-color: #8e44ad;
+}
+.footer {
+    background-color: #f39c12;
 }
