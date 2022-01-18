@@ -54,8 +54,8 @@ body {
     }
     .scrolling__text {
         grid-column-start: 2;
-        white-space: nowrap;
-        overflow: hidden;
+        white-space: nowrap; // 공백문자 처리.
+        overflow: hidden; // 컨텐츠가 넘칠떄.
         span {
             animation: scrollText 3s linear infinite forwards;
         }
