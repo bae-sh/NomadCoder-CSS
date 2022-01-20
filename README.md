@@ -2,6 +2,10 @@
 CSS Layout 마스터클래스
 
 
+# SCSS Masterclass
+
+(S)CSS Layout Masterclass: Flexbox & Grid
+
 ## Flexbox:
 
 - [x] flex-direction
@@ -71,6 +75,6 @@ CSS Layout 마스터클래스
 - [x] [https://tolv.dk/](https://tolv.dk/)
 - [x] [https://rodicdavidson.co.uk/](https://rodicdavidson.co.uk/)
 - [x] [https://beige.de/](https://beige.de/)
-- [ ] [http://donicaida.com/](http://donicaida.com/)
-- [ ] [https://canalstreet.market/](https://canalstreet.market/)
-- [ ] [https://wonhundred.com/](https://wonhundred.com/)
+- [x] [http://donicaida.com/](http://donicaida.com/)
+- [x] [https://canalstreet.market/](https://canalstreet.market/)
+- [x] [https://wonhundred.com/](https://wonhundred.com/)
